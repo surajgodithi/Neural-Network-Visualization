@@ -55,12 +55,3 @@ page.
 The generated GIF is overwritten each time a new experiment runs. Feel free to
 edit `visualize()` if you want to save multiple outputs.
 
-### Next steps
-
-Explore `neural_networks.py` to tweak the network architecture or the
-visualization. You can also enhance the front end with additional controls or
-progress indicators.
-
-### Resources
-
-- [YouTube demo](https://youtu.be/5rNrOVM7CA8)
